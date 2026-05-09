@@ -54,15 +54,6 @@ export default function Hero() {
             >
               <FaGithub />
             </a>
-
-            {/* <a
-              href="https://linkedin.com/in/rahul-waghmare-211a27381"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="border border-slate-600 px-6 py-3 rounded-2xl hover:border-cyan-400 hover:text-cyan-400 transition"
-            >
-              LinkedIn
-            </a> */}
             <a
               href="https://linkedin.com/in/rahul-waghmare-211a27381"
               target="_blank"
